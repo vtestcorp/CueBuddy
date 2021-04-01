@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite 1">
+	<listeners>
+		<listener class-name="listeners.AnnotationTransformer" />
+	</listeners>
+	<test name="Profile Module">
+		<parameter name="browserType" value="chrome" />
+		<classes>
+		<!-- 	<class name="com.reminder.Login.testcases.TC_01_Create_Reminder"/> 	
+			<class name="com.reminder.Login.testcases.TC_02_Login_With_Valid_Credentials"/> 	
+			<class name="com.reminder.Login.testcases.TC_03_Sign_Up"/> 	
+			<class name="com.reminder.Login.testcases.TC_04_Change_Password"/> 	
+			<class name="com.reminder.Login.testcases.TC_05_Logout"/> 	
+			<class name="com.reminder.Login.testcases.TC_06_Delete_Reminder"/> 	
+			<class name="com.reminder.Login.testcases.TC_07_Edit_Reminder"/> 	
+			<class name="com.reminder.Login.testcases.TC_08_Multiple_Reminder"/> 	 -->
+			<class name="com.reminder.Login.testcases.TC_09_Check_50_FreeReminders"/> 	
+	<!-- 		<class name="com.reminder.Login.testcases.TC_10_Search_Reminder"/> 	 -->
+		</classes>
+	</test>
+</suite>

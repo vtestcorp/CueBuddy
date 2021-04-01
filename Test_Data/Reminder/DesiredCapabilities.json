@@ -1,0 +1,13 @@
+{
+  "deviceName": "realme 5",
+  "udid":"NE1GAM4772601015",
+  "platformName": "Android",
+  "platformVersion":"10",
+  "skipUnlock":"true",
+  "appPackage":"com.example.reminder_app",
+  "appActivity":"com.example.reminder_app.MainActivity",
+  "noReset": "false",
+  "unicodeKeyboard": "true",
+  "resetKeyboard":"true",
+  "app":"C:\\vtest project\\CueBuddy\\22-feb-2021app-profile.apk"
+}

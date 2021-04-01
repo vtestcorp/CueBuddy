@@ -1,0 +1,14 @@
+{
+	"Email": "testing@gmail.com",
+	"Password": "testing",
+	"Name":"Vijaya",
+	"Description":"Test Vijaya Anniversay",
+	"Gender":"Female",
+	"Age":"23",
+	"Relation":"Family",
+	"Reminder Type":"One Time Reminder",
+	"Date":"07",
+	"Month":"December",
+	"Year":"2021",
+	"Event Name":"First Date Anniversary"
+}

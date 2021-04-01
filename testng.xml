@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.reminder.Login.testcases.TC_04_Change_Password"/>
+      <class name="com.reminder.Login.testcases.TC_01_Create_Reminder"/>
+      <class name="com.reminder.Login.testcases.TC_05_Logout"/>
+      <class name="com.reminder.Login.testcases.TC_03_Sign_Up"/>
+      <class name="base.BaseClass"/>
+      <class name="com.reminder.Login.testcases.TC_06_Delete_Reminder"/>
+      <class name="com.reminder.Login.testcases.TC_02_Login_With_Valid_Credentials"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

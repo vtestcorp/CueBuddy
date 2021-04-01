@@ -1,0 +1,22 @@
+{
+	"Email": "testing@gmail.com",
+	"Password": "testing",
+	"Name":"Ravindra",
+	"Age": "28",
+	"Description":"Test Ravindra Anniversary",
+	"Gender":"Female",
+	"Relation":"Family",
+	"Reminder Type":"One Time Reminder",
+	"Date":"06",
+	"Month":"December",
+	"Year":"2022",
+	"Event Name":"First Date Anniversary",
+	
+	"Name Edited":"arya Edited",
+	"Description Edited":"Test Arya Anniversary Edited",
+	"Gender Edited":"Male",
+	"Relation Edited":"Friends",
+	"Date Edited":"08",
+	"Month Edited":"November",
+	"Year Edited":"2023"
+}

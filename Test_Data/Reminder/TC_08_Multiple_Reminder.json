@@ -1,0 +1,14 @@
+{
+	"Email": "testing@gmail.com",
+	"Password": "testing",
+	"Name":"Prasad",
+	"Description":"Test Prasad Anniversary",
+	"Gender":"Female",
+	"Relation":"Family",
+	"Age":"40",
+	"Reminder Type":"One Time Reminder",
+	"Date":"09",
+	"Month":"December",
+	"Year":"2022",
+	"Event Name":"Marriage Anniversary"
+}

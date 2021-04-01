@@ -1,0 +1,14 @@
+{
+	"Email": "tc123.testing@gmail.com",
+	"Passoword": "testing",
+	"Name":"Event",
+	"Description":"Demo Test Reminder",
+	"Gender":"Female",
+	"Relation":"Family",
+	"Reminder Type":"One Time Reminder",
+	"Date":"5",
+	"Month":"March",
+	"Year":"2021",
+	"Age":"20",
+	"Message":"Your free reminder are not sufficient. Please upgrade your subscription plan."
+}

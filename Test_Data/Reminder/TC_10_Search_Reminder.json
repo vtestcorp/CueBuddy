@@ -1,0 +1,14 @@
+{
+	"Email": "testing@gmail.com",
+	"Password": "testing",
+	"Name":"Vikas",
+	"Age":"30",
+	"Description":"Test Vikas Anniversary",
+	"Gender":"Female",
+	"Relation":"Family",
+	"Reminder Type":"One Time Reminder",
+	"Date":"14",
+	"Month":"December",
+	"Year":"2022",
+	"Event Name":"Propose Day"
+}
